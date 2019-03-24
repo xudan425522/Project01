@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="test@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.9">
+    <root id="1">
+      <ServerVersion>5.0.88</ServerVersion>
+      <DefaultCasing>lower/lower</DefaultCasing>
+    </root>
+    <schema id="2" parent="1" name="bdurs"/>
+    <schema id="3" parent="1" name="fazhiban"/>
+    <schema id="4" parent="1" name="fzb"/>
+    <schema id="5" parent="1" name="guohang"/>
+    <schema id="6" parent="1" name="information_schema"/>
+    <schema id="7" parent="1" name="meet"/>
+    <schema id="8" parent="1" name="meetapply"/>
+    <schema id="9" parent="1" name="mysql"/>
+    <schema id="10" parent="1" name="seatmanagement"/>
+    <schema id="11" parent="1" name="shandongheze"/>
+    <schema id="12" parent="1" name="test">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="13" parent="1" name="zbzx"/>
+  </database-model>
+</dataSource>
